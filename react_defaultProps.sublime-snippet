@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+defaultProps = {
+  $0
+};
+]]></content>
+    <tabTrigger>dp</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: defaultProps { ... }</description>
+</snippet>
